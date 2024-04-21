@@ -20,7 +20,7 @@ This file contains data of X Chromosome.
 
 1. Clone the repository:
 
-   git clone [Visual-Neuroscience](https://github.com/ugendar07/Visual-Neuroscience.git)
+   git clone [Visual-Neuroscience](https://github.com/ugendar07/Color-Blindness.git)
 
 
 ## Contact
