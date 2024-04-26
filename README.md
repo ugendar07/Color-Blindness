@@ -17,7 +17,7 @@ This file contains data of X Chromosome.
 - [Python](https://www.python.org/) and [pip](https://pip.pypa.io/)
 - [TensorFlow](https://www.tensorflow.org/) and [SciPy](https://scipy.org/)
 - [NumPy](https://numpy.org/) 
-
+   
 
 ### Installation
 
